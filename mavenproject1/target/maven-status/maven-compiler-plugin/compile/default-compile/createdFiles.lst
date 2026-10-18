@@ -1,0 +1,10 @@
+Clases\Cliente.class
+Clases\DetallePedido.class
+Clases\Categoria.class
+Clases\PedidoDelivery.class
+Clases\Producto.class
+Clases\EstadoPedido.class
+Clases\Repartidor.class
+Ejecucion\Main.class
+Clases\PedidoLocal.class
+Clases\Pedido.class
